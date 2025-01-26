@@ -19,7 +19,7 @@ Below is a list of all modules currently included in this package, along with th
 **listrepos** - Generates a list of all Git repositories belonging to a specific user or organization. Ensure that your personal access token (PAT) has the necessary permissions to access all the repositories you wish to include in the list.
 - SOURCE = The name of the user or organization whose repositories should be listed. Example: "SilverLPs"
 - DESTINATION = The path to the text file where the repository list will be saved.
-- PAT = The password or personal access token (PAT) used for authentication with GitHub.
+- PAT = The personal access token (PAT) used for authentication with GitHub.
 
 ---
 
